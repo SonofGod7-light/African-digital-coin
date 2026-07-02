@@ -32,7 +32,7 @@ The African Digital Coin is a flagship initiative under the **African Youth Lead
 This repository is currently in the conceptual and documentation phase. Technical architecture, smart contract development, and pilot planning are in progress.
 
 ## Documentation
-- [Executive Summary](link-to-document) *(to be added)*
+- [Executive Summary](link-to-document) *(https://drive.google.com/file/d/1oyN3x5OIswZ_KY-r0780lmLDQolC1Cu-/view?usp=drivesdk)*
 - [ONE AGE Research Paper](link-to-paper) *(to be added)*
 - Technical Whitepaper *(coming soon)*
 
